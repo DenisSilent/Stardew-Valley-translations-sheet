@@ -1,0 +1,1 @@
+# Stardew-Valley-translations-sheet
