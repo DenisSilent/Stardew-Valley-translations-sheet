@@ -1,4 +1,4 @@
-# Stardew-Valley-translations-sheet
+# Stardew Valley translations sheet
 
 This guide explains how to use the provided Google Sheet and Python script to translate the i18n's default.json file for your Stardew Valley mod.
 
