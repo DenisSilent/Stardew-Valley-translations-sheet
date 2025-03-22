@@ -98,7 +98,7 @@ def create_translated_json_files_from_csv(csv_file, original_json_file, output_d
 
 if __name__ == "__main__":
     csv_translation_file = "translations.csv"
-    json_original_file = "default.json" # Changed to default.json
-    output_directory = "translations" # Changed to translations
+    json_original_file = "default.json"
+    output_directory = "i18n"
 
     create_translated_json_files_from_csv(csv_translation_file, json_original_file, output_directory)
